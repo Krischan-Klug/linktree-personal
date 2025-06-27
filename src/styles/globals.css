@@ -1,0 +1,12 @@
+body {
+  font-family: "SFPRO", sans-serif;
+  src: url("/fonts/SFPRODISPLAYREGULAR.OTF") format("OTF");
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
